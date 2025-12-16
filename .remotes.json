@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ows4R",
+    "url": "https://github.com/eblondel/ows4R",
+    "via": ["emodnet.wcs"],
+    "from": "emodnet.wcs"
+  },
+  {
+    "package": "vcr",
+    "url": "https://github.com/ropensci/vcr",
+    "via": ["emodnet.wcs"],
+    "from": "emodnet.wcs"
+  }
+]
