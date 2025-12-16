@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/emodnet/emodnet.r-universe.dev
 	branch = HEAD
+[submodule "emodnet.wcs"]
+	path = emodnet.wcs
+	url = https://github.com/EMODnet/emodnet.wcs
 [submodule "emodnet.wfs"]
 	path = emodnet.wfs
-	url = https://github.com/emodnet/emodnet.wfs
+	url = https://github.com/EMODnet/emodnet.wfs
