@@ -8,11 +8,3 @@
 [submodule "emodnet.wfs"]
 	path = emodnet.wfs
 	url = https://github.com/EMODnet/emodnet.wfs
-[submodule "ows4R"]
-	path = ows4R
-	url = https://github.com/eblondel/ows4R
-	registered = false
-[submodule "vcr"]
-	path = vcr
-	url = https://github.com/ropensci/vcr
-	registered = false
